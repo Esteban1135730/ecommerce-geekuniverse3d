@@ -1,0 +1,6 @@
+Geek Universe 3D - Colores sugeridos (maker / geek)
+Fondo oscuro:  #2C2C2C
+Fondo claro:   #FFFFFF
+Acento cyan:   #00AEEF
+Acento naranja:#FF6B35
+Texto:         #E8E8E8 (sobre oscuro)

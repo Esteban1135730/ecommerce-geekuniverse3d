@@ -1,0 +1,12 @@
+Proyecto: Propuesta e-commerce — Geek Universe 3D
+Estudiante: Alonso Esteban Amaya Gil
+Universidad: Institución Universitaria Agustiniana
+Curso: Comercio electrónico, Unidades 1 y 2
+Docente: José Vicente Barreto Hernández
+Instagram: https://www.instagram.com/geekuniverse3d/
+
+Entrega principal:
+  proyecto-comercializacion-red-social/entrega/AmayaGil_Propuesta_Ecommerce.pdf
+
+Regenerar Word/PDF:
+  python proyecto-comercializacion-red-social/entrega/generar_docx.py

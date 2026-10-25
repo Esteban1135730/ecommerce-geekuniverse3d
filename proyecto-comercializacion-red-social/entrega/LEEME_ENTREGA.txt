@@ -1,0 +1,17 @@
+ENTREGA APA 7 — Alonso Esteban Amaya Gil
+
+Archivo para subir al curso:
+  AmayaGil_Propuesta_Ecommerce.pdf
+
+Incluye:
+  - Portada APA (título, autor, institución, curso, docente, fecha)
+  - Numeración de página arriba a la derecha
+  - Times New Roman 12, interlineado doble, márgenes 2,54 cm
+  - Encabezados nivel 1 centrados (Introducción, Desarrollo, Conclusiones, Referencias)
+  - Tablas 1–3 con título APA (negrita + cursiva)
+  - Figuras 1–2 con nota al pie
+  - Referencias con sangría francesa e títulos en cursiva
+
+Para regenerar tras cambios:
+  python generar_docx.py
+  (luego abrir el .docx en Word y exportar a PDF si no tienes automatización)
